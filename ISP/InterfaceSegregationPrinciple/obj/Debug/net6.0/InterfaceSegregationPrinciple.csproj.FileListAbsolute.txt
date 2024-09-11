@@ -1,0 +1,14 @@
+C:\Users\Boot Camp\SOLID\ISP\InterfaceSegregationPrinciple\bin\Debug\net6.0\InterfaceSegregationPrinciple.exe
+C:\Users\Boot Camp\SOLID\ISP\InterfaceSegregationPrinciple\bin\Debug\net6.0\InterfaceSegregationPrinciple.deps.json
+C:\Users\Boot Camp\SOLID\ISP\InterfaceSegregationPrinciple\bin\Debug\net6.0\InterfaceSegregationPrinciple.runtimeconfig.json
+C:\Users\Boot Camp\SOLID\ISP\InterfaceSegregationPrinciple\bin\Debug\net6.0\InterfaceSegregationPrinciple.dll
+C:\Users\Boot Camp\SOLID\ISP\InterfaceSegregationPrinciple\bin\Debug\net6.0\InterfaceSegregationPrinciple.pdb
+C:\Users\Boot Camp\SOLID\ISP\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boot Camp\SOLID\ISP\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.AssemblyInfoInputs.cache
+C:\Users\Boot Camp\SOLID\ISP\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.AssemblyInfo.cs
+C:\Users\Boot Camp\SOLID\ISP\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Boot Camp\SOLID\ISP\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.dll
+C:\Users\Boot Camp\SOLID\ISP\InterfaceSegregationPrinciple\obj\Debug\net6.0\refint\InterfaceSegregationPrinciple.dll
+C:\Users\Boot Camp\SOLID\ISP\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.pdb
+C:\Users\Boot Camp\SOLID\ISP\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.genruntimeconfig.cache
+C:\Users\Boot Camp\SOLID\ISP\InterfaceSegregationPrinciple\obj\Debug\net6.0\ref\InterfaceSegregationPrinciple.dll
